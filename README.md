@@ -1,2 +1,1 @@
-# Random-GIF
-Tech :  React
+# random-gifs
